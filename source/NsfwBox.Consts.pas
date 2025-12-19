@@ -180,7 +180,7 @@ begin
   FPseudo      := Add(ORIGIN_PSEUDO, 'Files', 1, TNBoxSearchReqPseudo, TNBoxPseudoItem, False, False);
 
   FNsfwXxx     := Add(ORIGIN_NSFWXXX, 'nsfw.xxx', 1, TNBoxSearchReqNsfwXxx, TNBoxNsfwXxxItem);
-  FCoomerParty := Add(ORIGIN_COOMERPARTY, 'coomer.party \ kemono.party', 1, TNBoxSearchReqCoomerParty, TNBoxCoomerPartyItem);
+  FCoomerParty := Add(ORIGIN_COOMERPARTY, 'coomer.st \ kemono.cr', 1, TNBoxSearchReqCoomerParty, TNBoxCoomerPartyItem);
   FGMPClub     := Add(ORIGIN_GIVEMEPORNCLUB, 'givemeporn.club', 1, TNBoxSearchReqGmpClub, TNBoxGmpClubItem);
   FMotherless  := Add(ORIGIN_MOTHERLESS, 'motherless.com', 1, TNBoxSearchReqMotherless, TNBoxMotherlessItem);
   F9HentaiTo   := Add(ORIGIN_9HENTAITO, '9hentai.to', 0, TNBoxSearchReq9Hentaito, TNBox9HentaitoItem);
